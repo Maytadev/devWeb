@@ -41,6 +41,46 @@ const data = [
     tags: ['Moda Hombre'],
     publishDate: '21/04/2024',
   },
+
+  {
+    id: 1,
+    title: 'Polo Manga Corta',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882972696_1.jpg',
+    author: {
+      name: 'Bearcliff',
+      image: '/images/logo_bearcliff.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
+  {
+    id: 1,
+    title: 'Polo Manga Corta',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882972696_1.jpg',
+    author: {
+      name: 'Bearcliff',
+      image: '/images/logo_bearcliff.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
+  {
+    id: 1,
+    title: 'Polo Manga Corta',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882972696_1.jpg',
+    author: {
+      name: 'Bearcliff',
+      image: '/images/logo_bearcliff.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
 ];
 
 export default function Blog() {
