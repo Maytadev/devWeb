@@ -1,5 +1,6 @@
 import Breadcrumb from '../../components/breadcrumb/breadcrumb';
 import SingleCard from '../../components/card/single-card';
+import LigisticTop from '../../components/logistic_top/LogisticTop';
 
 const data = [
   {
@@ -124,10 +125,13 @@ const data = [
 export default function Blog() {
   return (
     <>
+
       <Breadcrumb
         pageName="Gamarra Online"
         description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores adipisci, debitis deleniti qui provident quae odio recusandae."
       />
+            <LigisticTop/>
+
 
       <section className="pb-[120px] pt-[120px]">
         <div className="container">
