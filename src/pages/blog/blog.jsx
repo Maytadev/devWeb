@@ -41,7 +41,45 @@ const data = [
     tags: ['Moda Hombre'],
     publishDate: '21/04/2024',
   },
-
+  {
+    id: 1,
+    title: 'Polo Manga Corta',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882972696_1.jpg',
+    author: {
+      name: 'Bearcliff',
+      image: '/images/logo_bearcliff.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
+  {
+    id: 2,
+    title: 'Jean Algodón Hombre Basement',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882966100_1.jpg',
+    author: {
+      name: 'Basement',
+      image: '/images/logo_basement.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
+  {
+    id: 3,
+    title: 'Polo Mango Corta 100% Algodón',
+    paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
+    image: '/images/882970691_7.jpg',
+    author: {
+      name: 'Ecko',
+      image: '/images/logo_ecko.jpg',
+      designation: 'Voluptatibus veritatis',
+    },
+    tags: ['Moda Hombre'],
+    publishDate: '21/04/2024',
+  },
   {
     id: 1,
     title: 'Polo Manga Corta',
