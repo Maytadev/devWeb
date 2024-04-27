@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 // Componentes
 import Header from '../components/header/header';
 import ScrollToTop from '../components/scroll-to-top/scroll-to-top';
@@ -8,7 +8,6 @@ export default function RootLayout({ children }) {
   return (
     // <html suppressHydrationWarning lang="es">
     // </html>
-
     <div className="bg-[#FCFCFC] dark:bg-black ">
       <Header />
       {children}

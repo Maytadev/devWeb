@@ -4,6 +4,7 @@ import Blog from '../pages/blog/blog';
 import SignIn from '../pages/auth/signin';
 import SignUp from '../pages/auth/signup';
 
+
 export default function Routes() {
   return useRoutes([
     {
@@ -28,3 +29,4 @@ export default function Routes() {
     },
   ]);
 }
+
