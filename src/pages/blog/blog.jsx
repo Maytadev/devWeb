@@ -109,7 +109,7 @@ const data = [
   },
   {
     id: 3,
-    title: 'Polo Mango Corta 100% Algodón',
+    title: 'Polo Mango Corta 100% Algodon de ',
     paragraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.',
     image: '/images/882970691_7.jpg',
     author: {
